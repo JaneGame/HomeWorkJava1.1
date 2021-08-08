@@ -7,7 +7,7 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлен следующий дефект:
-* https://github.com/JaneGame/HomeWorkJava1.1/issues
+* https://github.com/JaneGame/HomeWorkJava1.1/issues/1
 
 
 ## Описание процесса тестирования
