@@ -7,13 +7,13 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлен следующий дефект:
-* https://github.com/JaneGame/HomeWorkJava1.1/issues/1
+* [Ошибка в ккоде](https://github.com/JaneGame/HomeWorkJava1.1/issues/1)
 
 
 ## Описание процесса тестирования
 
 
-В качестве тестовых данных использовались данные взятые с https://www.freeformatter.com/credit-card-number-generator-validator.html:
+В качестве тестовых данных использовались данные взятые с [сервиса с валидными номерами карт](https://www.freeformatter.com/credit-card-number-generator-validator.html):
 * номера карт Виза (все номера проходят валидацию)
 * номера карт MasterCard (все номера проходят валидацию)
 * номера карт Diners Club (международный и карт-бланш) (все номера проходят валидацию)
